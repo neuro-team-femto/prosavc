@@ -1,0 +1,12 @@
+{
+  "kind": "sound",
+  "nInterval": 2,
+  "fileExtension": "wav",
+  "trialsPerBlock": 50,
+  "blocksPerXp": 2,
+  "addRepeatBlock": true,
+  "allowCreate": true,
+  "createPassword": "prosavc",
+  "adminPassword": "prosavc",
+  "showProgress": true
+}

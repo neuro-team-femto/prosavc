@@ -1,0 +1,9 @@
+{
+  "instructions": "Avant de commencer l'expérience, veuillez renseigner l'identifiant de patient (PSL-0000-X-X) et le nom du protocole de recherche :",
+  "idLabel": "Identifiant patient",
+  "passwordLabel": "Protocole",
+  "submitLabel": "Valider",
+  "serverError": "Erreur serveur",
+  "wrongPassword": "Code d'accès erronné, veuillez contacter l'organisateur de cette expérience",
+  "invalidId": "Identifiant invalide"
+}

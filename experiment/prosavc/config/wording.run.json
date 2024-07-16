@@ -1,0 +1,23 @@
+{
+  "title": "Prosodie interrogative",
+  "collect": "Merci de remplir les informations suivantes: ",
+  "collectButton": "Valider",
+  "introduction": "En français, la compréhension passe non seulement par la signification des mots, mais également par leur intonation, c'est-à-dire la manière dont ils sont prononcés. Cette expérience se concentre spécifiquement sur la manière dont une phrase doit être prononcée pour paraître interrogative. L'expérience consistera à écouter des paires de prononciations du mot 'vraiment', et de déterminer lesquelles évoquent une intonation interrogative ('vraiment?'). Dans chaque paire, si c’est le premier mot qui vous semble le plus interrogatif, appuyez sur ‘f’. Si c’est le deuxième, appuyez sur ‘j’. Pour passer au son suivant, utilisez la touche ‘Espace’.      L'expérience comprends 150 paires de mots et dure entre 10 à 15 minutes. Il est obligatoire d'utiliser un casque audio et de vous assurer d’avoir une connexion Internet stable.",
+  "pause": "Nous vous proposons une pause de quelques secondes",
+  "pauseOver": " La pause est maintenant terminée, Veuillez poursuivre l'expérience",
+  "resume": "Reprise de l'expérience",
+  "end": "Fin de l'expérience",
+  "thanks": "Merci pour votre participation",
+  "closed": "Expérience déjà effectuée par ce·tte participant·e",
+  "connectionError": "Connexion perdue, veuillez rafraîchir la page",
+  "playSounds": "écoute voix 1 & 2",
+  "next": "pour continuer",
+  "space": "espace",
+  "question": "Laquelle des ces deux prononciations ressemble le plus à une question ?",
+  "keyAlt1": "f",
+  "keyAlt2": "j",
+  "labelAlt1": "voix 1",
+  "labelAlt2": "voix 2",
+  "codeAlt1": "voice1",
+  "codeAlt2": "voice2"
+}
